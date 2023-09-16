@@ -26,7 +26,7 @@ Una vez que tengas nvm instalado, puedes usarlo para instalar la versión de Nod
 
 bash
 
-nvm install 14.17.6
+nvm install 16.20.2
 
 Este comando descargará e instalará Node.js 14.17.6 en tu sistema.
 
@@ -36,7 +36,7 @@ Para usar la versión específica de Node.js que has instalado, simplemente ejec
 
 bash
 
-nvm use 14.17.6
+nvm use 16.20.2
 
 Ahora estarás utilizando la versión 14.17.6 de Node.js en tu terminal. Puedes verificar la versión actual de Node.js y npm ejecutando los siguientes comandos:
 
